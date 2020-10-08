@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"
+
+>
+    <channel>
+        <title><![CDATA[豆瓣小组-669481]]></title>
+        <link>https://www.douban.com/group/669481/</link>
+        <atom:link href="https://rss.owenyoung.com/sale/douban-driver-group.xml" rel="self" type="application/rss+xml" />
+        <description><![CDATA[豆瓣小组-669481 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
+        <generator>RSSHub</generator>
+        <webMaster>i@diygod.me (DIYgod)</webMaster>
+        
+        
+        
+        <language>zh-cn</language>
+        
+        <lastBuildDate>Thu, 08 Oct 2020 11:36:46 GMT</lastBuildDate>
+        <ttl>1</ttl>
+        
+    </channel>
+</rss>

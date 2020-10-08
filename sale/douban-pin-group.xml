@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"
+
+>
+    <channel>
+        <title><![CDATA[豆瓣小组-698716]]></title>
+        <link>https://www.douban.com/group/698716/</link>
+        <atom:link href="https://rss.owenyoung.com/sale/douban-pin-group.xml" rel="self" type="application/rss+xml" />
+        <description><![CDATA[豆瓣小组-698716 - Made with love by RSSHub(https://github.com/DIYgod/RSSHub)]]></description>
+        <generator>RSSHub</generator>
+        <webMaster>i@diygod.me (DIYgod)</webMaster>
+        
+        
+        
+        <language>zh-cn</language>
+        
+        <lastBuildDate>Thu, 08 Oct 2020 11:36:41 GMT</lastBuildDate>
+        <ttl>1</ttl>
+        
+        <item>
+            <title><![CDATA[【抽奖】生日抽奖送口罩]]></title>
+            <description><![CDATA[我要过生日啦！抽一位姐妹送口罩99片（包邮）。祝各...]]></description>
+            <pubDate>Thu, 08 Oct 2020 19:36:37 GMT</pubDate>
+            <guid isPermaLink="false">https://m.douban.com/group/topic/196527076/</guid>
+            <link>https://m.douban.com/group/topic/196527076/</link>
+            
+            
+            
+            <author><![CDATA[Sherlockdouble]]></author>
+            
+                
+            
+            
+        </item>
+        
+        <item>
+            <title><![CDATA[【分享】免费领WPS稻壳会员45天]]></title>
+            <description><![CDATA[分开三个链接，好久没来买组分享啦，希望对大家有用
+...]]></description>
+            <pubDate>Thu, 08 Oct 2020 19:36:13 GMT</pubDate>
+            <guid isPermaLink="false">https://m.douban.com/group/topic/196443925/</guid>
+            <link>https://m.douban.com/group/topic/196443925/</link>
+            
+            
+            
+            <author><![CDATA[美式去冰]]></author>
+            
+                
+            
+            
+        </item>
+        
+    </channel>
+</rss>
